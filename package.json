@@ -4,7 +4,8 @@
   "description": "The Droid of Ecole Directe Plus website",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon"
+    "dev": "nodemon",
+    "start": "npm i && cd src && node index.js"
   },
   "author": "MATRISM :)",
   "license": "ISC",
